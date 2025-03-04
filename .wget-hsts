@@ -2,5 +2,6 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 developer.download.nvidia.cn	0	0	1738678186	31536000
-github.com	0	1	1736738816	31536000
+missing-semester-cn.github.io	0	0	1741080332	31556952
+github.com	0	1	1741087360	31536000
 gfxcourses.stanford.edu	0	1	1738943179	63072000

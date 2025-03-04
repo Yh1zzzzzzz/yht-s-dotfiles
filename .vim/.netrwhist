@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/yht/xv6-labs-2022/kernel'
+let g:netrw_dirhist_9='/home/yht/xv6-labs-2022'
+let g:netrw_dirhist_8='/home/yht/.vim/autoload/vim-plug'
+let g:netrw_dirhist_7='/home/yht/.config/nvim/lua/nvchad/plugins'
+let g:netrw_dirhist_6='/home/yht/.config/nvim/lua/nvchad'
+let g:netrw_dirhist_5='/home/yht/.config/nvim/lua'
+let g:netrw_dirhist_4='/home/yht/.config/nvim'
+let g:netrw_dirhist_3='/home/yht/.config'
+let g:netrw_dirhist_2='/home/yht/.config/nvim'
+let g:netrw_dirhist_1='/home/yht/.config/nvim/lua'
